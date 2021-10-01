@@ -1,0 +1,25 @@
+{
+  "food": [
+    {
+      "fname": "Orange",
+      "price": "25",
+      "img_url": "https://healthjade.com/wp-content/uploads/2017/10/orange-fruit.jpg",
+      "quan": "25",
+      "id": 1
+    },
+    {
+      "fname": "Cashew",
+      "price": "200",
+      "img_url": "https://m.media-amazon.com/images/I/81NWcP0or3L._SX522_.jpg",
+      "quan": "400",
+      "id": 3
+    },
+    {
+      "fname": "Chocolate Waffle",
+      "price": "150",
+      "img_url": "https://gfreefoodie.com/wp-content/uploads/2016/08/choc-waffle.jpg",
+      "quan": "10",
+      "id": 4
+    }
+  ]
+}
